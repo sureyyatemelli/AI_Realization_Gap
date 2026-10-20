@@ -1,0 +1,2 @@
+﻿test,N,T,CD_statistic,p_value,mean_pairwise_residual_correlation,decision_5pct
+Pesaran CD test on TWFE residuals,27,4,-1.234862038214174,0.216881853786985,-0.03295602973053711,Do not reject cross-sectional independence

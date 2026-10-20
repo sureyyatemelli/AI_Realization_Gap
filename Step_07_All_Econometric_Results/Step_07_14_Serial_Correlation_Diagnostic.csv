@@ -1,0 +1,2 @@
+﻿test,coefficient_lag1,std_error,test_statistic,p_value,ci_lower_95,ci_upper_95,interpretation_5pct
+Residual AR(1) diagnostic,-0.08186408511124613,0.07154381955985596,-1.1442509725491505,0.25251956940314135,-0.22208739476499606,0.05835922454250381,No statistically significant residual serial correlation

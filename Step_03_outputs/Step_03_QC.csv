@@ -1,0 +1,10 @@
+﻿check,passed
+expected_rows_108,True
+expected_countries_27,True
+expected_years_4,True
+unique_geo_year,True
+components_complete,True
+indices_complete,True
+pca_index_between_0_and_1,True
+equal_index_between_0_and_1,True
+pca_weights_sum_to_one,True

@@ -1,17 +1,17 @@
                           PooledOLS Estimation Summary                          
 ================================================================================
-Dep. Variable:     ai_realization_gap   R-squared:                        0.0656
-Estimator:                  PooledOLS   R-squared (Between):              0.1531
-No. Observations:                 108   R-squared (Within):              -0.0620
-Date:                Thu, Oct 01 2026   R-squared (Overall):              0.0656
-Time:                        08:51:39   Log-likelihood                    21.373
+Dep. Variable:     ai_realization_gap   R-squared:                        0.0662
+Estimator:                  PooledOLS   R-squared (Between):              0.1553
+No. Observations:                 108   R-squared (Within):              -0.0636
+Date:                Tue, Oct 20 2026   R-squared (Overall):              0.0662
+Time:                        13:18:04   Log-likelihood                    21.412
 Cov. Estimator:             Clustered                                           
-                                        F-statistic:                      3.6833
-Entities:                          27   P-value                           0.0284
+                                        F-statistic:                      3.7239
+Entities:                          27   P-value                           0.0274
 Avg Obs:                       4.0000   Distribution:                   F(2,105)
 Min Obs:                       4.0000                                           
-Max Obs:                       4.0000   F-statistic (robust):             0.9772
-                                        P-value                           0.3798
+Max Obs:                       4.0000   F-statistic (robust):             0.9933
+                                        P-value                           0.3738
 Time periods:                       4   Distribution:                   F(2,105)
 Avg Obs:                       27.000                                           
 Min Obs:                       27.000                                           
@@ -21,7 +21,7 @@ Max Obs:                       27.000
 =================================================================================
                Parameter  Std. Err.     T-stat    P-value    Lower CI    Upper CI
 ---------------------------------------------------------------------------------
-const            -1.4850     1.2185    -1.2187     0.2257     -3.9011      0.9311
-vhcn_pct         -0.0014     0.0018    -0.7415     0.4600     -0.0050      0.0023
-ln_gdp_pc_pps     0.1727     0.1235     1.3978     0.1651     -0.0723      0.4176
+const            -1.4922     1.2136    -1.2296     0.2216     -3.8985      0.9141
+vhcn_pct         -0.0014     0.0018    -0.7491     0.4555     -0.0050      0.0023
+ln_gdp_pc_pps     0.1734     0.1231     1.4093     0.1617     -0.0706      0.4174
 =================================================================================

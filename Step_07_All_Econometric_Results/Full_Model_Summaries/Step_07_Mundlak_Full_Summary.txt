@@ -1,33 +1,33 @@
                             OLS Regression Results                            
 ==============================================================================
-Dep. Variable:     ai_realization_gap   R-squared:                       0.383
-Model:                            OLS   Adj. R-squared:                  0.340
-Method:                 Least Squares   F-statistic:                     23.29
-Date:                Thu, 01 Oct 2026   Prob (F-statistic):           1.13e-09
-Time:                        08:58:57   Log-Likelihood:                 43.777
-No. Observations:                 108   AIC:                            -71.55
-Df Residuals:                     100   BIC:                            -50.10
+Dep. Variable:     ai_realization_gap   R-squared:                       0.388
+Model:                            OLS   Adj. R-squared:                  0.345
+Method:                 Least Squares   F-statistic:                     25.67
+Date:                Tue, 20 Oct 2026   Prob (F-statistic):           3.86e-10
+Time:                        13:18:10   Log-Likelihood:                 44.192
+No. Observations:                 108   AIC:                            -72.38
+Df Residuals:                     100   BIC:                            -50.93
 Df Model:                           7                                         
 Covariance Type:              cluster                                         
 ===================================================================================
                       coef    std err          z      P>|z|      [0.025      0.975]
 -----------------------------------------------------------------------------------
-Intercept          -1.7252      1.252     -1.378      0.168      -4.180       0.729
-C(year)[T.2023]    -0.1875      0.055     -3.404      0.001      -0.295      -0.080
-C(year)[T.2024]    -0.3734      0.063     -5.902      0.000      -0.497      -0.249
-C(year)[T.2025]    -0.5841      0.073     -8.013      0.000      -0.727      -0.441
-vhcn_pct            0.0012      0.002      0.776      0.438      -0.002       0.004
-ln_gdp_pc_pps       1.4279      0.330      4.328      0.000       0.781       2.075
-mean_vhcn          -0.0011      0.003     -0.405      0.685      -0.006       0.004
-mean_ln_gdp        -1.2166      0.358     -3.397      0.001      -1.919      -0.515
+Intercept          -1.7388      1.250     -1.392      0.164      -4.188       0.710
+C(year)[T.2023]    -0.1929      0.052     -3.740      0.000      -0.294      -0.092
+C(year)[T.2024]    -0.3834      0.059     -6.537      0.000      -0.498      -0.268
+C(year)[T.2025]    -0.5949      0.067     -8.884      0.000      -0.726      -0.464
+vhcn_pct            0.0007      0.002      0.472      0.637      -0.002       0.004
+ln_gdp_pc_pps       1.4764      0.311      4.747      0.000       0.867       2.086
+mean_vhcn          -0.0006      0.003     -0.222      0.824      -0.006       0.004
+mean_ln_gdp        -1.2633      0.341     -3.701      0.000      -1.932      -0.594
 ==============================================================================
-Omnibus:                        1.696   Durbin-Watson:                   0.813
-Prob(Omnibus):                  0.428   Jarque-Bera (JB):                1.681
-Skew:                           0.228   Prob(JB):                        0.431
-Kurtosis:                       2.592   Cond. No.                     7.23e+03
+Omnibus:                        1.705   Durbin-Watson:                   0.815
+Prob(Omnibus):                  0.426   Jarque-Bera (JB):                1.684
+Skew:                           0.226   Prob(JB):                        0.431
+Kurtosis:                       2.589   Cond. No.                     7.09e+03
 ==============================================================================
 
 Notes:
 [1] Standard Errors are robust to cluster correlation (CRV1)
-[2] The condition number is large, 7.23e+03. This might indicate that there are
+[2] The condition number is large, 7.09e+03. This might indicate that there are
 strong multicollinearity or other numerical problems.

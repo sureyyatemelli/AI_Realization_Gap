@@ -1,0 +1,32 @@
+                             PanelOLS Estimation Summary                              
+======================================================================================
+Dep. Variable:     ai_realization_gap_equal   R-squared:                        0.2118
+Estimator:                         PanelOLS   R-squared (Between):             -3352.6
+No. Observations:                       108   R-squared (Within):              -2.1687
+Date:                      Tue, Oct 20 2026   R-squared (Overall):             -2698.3
+Time:                              13:18:13   Log-likelihood                    128.10
+Cov. Estimator:                   Clustered                                           
+                                              F-statistic:                      10.211
+Entities:                                27   P-value                           0.0001
+Avg Obs:                             4.0000   Distribution:                    F(2,76)
+Min Obs:                             4.0000                                           
+Max Obs:                             4.0000   F-statistic (robust):             15.607
+                                              P-value                           0.0000
+Time periods:                             4   Distribution:                    F(2,76)
+Avg Obs:                             27.000                                           
+Min Obs:                             27.000                                           
+Max Obs:                             27.000                                           
+                                                                                      
+                               Parameter Estimates                               
+=================================================================================
+               Parameter  Std. Err.     T-stat    P-value    Lower CI    Upper CI
+---------------------------------------------------------------------------------
+vhcn_pct          0.0007     0.0017     0.4340     0.6655     -0.0027      0.0042
+ln_gdp_pc_pps     1.4812     0.3486     4.2485     0.0001      0.7868      2.1755
+=================================================================================
+
+F-test for Poolability: 16.256
+P-value: 0.0000
+Distribution: F(29,76)
+
+Included effects: Entity, Time

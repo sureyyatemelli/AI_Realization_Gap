@@ -1,0 +1,4 @@
+﻿diagnostic,test,statistic,p_value,decision_5pct,note
+Heteroskedasticity,Brown-Forsythe / Levene,1.5476551874352793,0.07135101310574957,Not detected,Country-level residual variance diagnostic
+Serial correlation,Residual AR(1) diagnostic,-1.1442509725491505,0.25251956940314135,Not detected,T=4; interpret cautiously
+Cross-sectional dependence,Pesaran CD,-1.234862038214174,0.216881853786985,Not detected,"N=27, T=4; low-T diagnostic"

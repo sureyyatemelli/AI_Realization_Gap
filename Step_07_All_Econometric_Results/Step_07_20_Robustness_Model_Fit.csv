@@ -1,0 +1,5 @@
+﻿model,dependent,nobs,n_countries,n_years,r2_within_model,f_robust_stat,f_robust_p,cluster,country_fe,year_fe
+Baseline TWFE,ai_realization_gap,108,27,4,0.20984522478736733,15.209900554199224,2.7801208552915473e-06,country,True,True
+Z-gap,ai_realization_gap_z,108,27,4,0.21749102836954937,18.93295192028116,2.1279233954368295e-07,country,True,True
+EW-gap,ai_realization_gap_equal,108,27,4,0.2117975640592522,15.606770109469853,2.096188381878082e-06,country,True,True
+Cloud-augmented,ai_realization_gap,85,27,4,0.26456317291095044,10.900695187411612,1.1550053845639384e-05,country,True,True

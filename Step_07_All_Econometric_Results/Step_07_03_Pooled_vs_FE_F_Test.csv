@@ -1,2 +1,2 @@
 ﻿test,null_hypothesis,statistic,p_value,df_difference,decision_5pct
-Joint significance of country fixed effects,Country fixed effects are jointly zero; pooled OLS is sufficient,5.647768833928346,1.173255951365251e-09,26.0,Reject pooled OLS
+Joint significance of country fixed effects,Country fixed effects are jointly zero; pooled OLS is sufficient,5.606282973018714,1.37603936929679e-09,26.0,Reject pooled OLS

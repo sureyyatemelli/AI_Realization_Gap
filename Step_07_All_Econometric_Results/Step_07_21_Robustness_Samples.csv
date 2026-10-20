@@ -1,0 +1,410 @@
+﻿model,iso3,year
+Baseline TWFE,AUT,2021
+Baseline TWFE,AUT,2023
+Baseline TWFE,AUT,2024
+Baseline TWFE,AUT,2025
+Baseline TWFE,BEL,2021
+Baseline TWFE,BEL,2023
+Baseline TWFE,BEL,2024
+Baseline TWFE,BEL,2025
+Baseline TWFE,BGR,2021
+Baseline TWFE,BGR,2023
+Baseline TWFE,BGR,2024
+Baseline TWFE,BGR,2025
+Baseline TWFE,CYP,2021
+Baseline TWFE,CYP,2023
+Baseline TWFE,CYP,2024
+Baseline TWFE,CYP,2025
+Baseline TWFE,CZE,2021
+Baseline TWFE,CZE,2023
+Baseline TWFE,CZE,2024
+Baseline TWFE,CZE,2025
+Baseline TWFE,DEU,2021
+Baseline TWFE,DEU,2023
+Baseline TWFE,DEU,2024
+Baseline TWFE,DEU,2025
+Baseline TWFE,DNK,2021
+Baseline TWFE,DNK,2023
+Baseline TWFE,DNK,2024
+Baseline TWFE,DNK,2025
+Baseline TWFE,ESP,2021
+Baseline TWFE,ESP,2023
+Baseline TWFE,ESP,2024
+Baseline TWFE,ESP,2025
+Baseline TWFE,EST,2021
+Baseline TWFE,EST,2023
+Baseline TWFE,EST,2024
+Baseline TWFE,EST,2025
+Baseline TWFE,FIN,2021
+Baseline TWFE,FIN,2023
+Baseline TWFE,FIN,2024
+Baseline TWFE,FIN,2025
+Baseline TWFE,FRA,2021
+Baseline TWFE,FRA,2023
+Baseline TWFE,FRA,2024
+Baseline TWFE,FRA,2025
+Baseline TWFE,GRC,2021
+Baseline TWFE,GRC,2023
+Baseline TWFE,GRC,2024
+Baseline TWFE,GRC,2025
+Baseline TWFE,HRV,2021
+Baseline TWFE,HRV,2023
+Baseline TWFE,HRV,2024
+Baseline TWFE,HRV,2025
+Baseline TWFE,HUN,2021
+Baseline TWFE,HUN,2023
+Baseline TWFE,HUN,2024
+Baseline TWFE,HUN,2025
+Baseline TWFE,IRL,2021
+Baseline TWFE,IRL,2023
+Baseline TWFE,IRL,2024
+Baseline TWFE,IRL,2025
+Baseline TWFE,ITA,2021
+Baseline TWFE,ITA,2023
+Baseline TWFE,ITA,2024
+Baseline TWFE,ITA,2025
+Baseline TWFE,LTU,2021
+Baseline TWFE,LTU,2023
+Baseline TWFE,LTU,2024
+Baseline TWFE,LTU,2025
+Baseline TWFE,LUX,2021
+Baseline TWFE,LUX,2023
+Baseline TWFE,LUX,2024
+Baseline TWFE,LUX,2025
+Baseline TWFE,LVA,2021
+Baseline TWFE,LVA,2023
+Baseline TWFE,LVA,2024
+Baseline TWFE,LVA,2025
+Baseline TWFE,MLT,2021
+Baseline TWFE,MLT,2023
+Baseline TWFE,MLT,2024
+Baseline TWFE,MLT,2025
+Baseline TWFE,NLD,2021
+Baseline TWFE,NLD,2023
+Baseline TWFE,NLD,2024
+Baseline TWFE,NLD,2025
+Baseline TWFE,POL,2021
+Baseline TWFE,POL,2023
+Baseline TWFE,POL,2024
+Baseline TWFE,POL,2025
+Baseline TWFE,PRT,2021
+Baseline TWFE,PRT,2023
+Baseline TWFE,PRT,2024
+Baseline TWFE,PRT,2025
+Baseline TWFE,ROU,2021
+Baseline TWFE,ROU,2023
+Baseline TWFE,ROU,2024
+Baseline TWFE,ROU,2025
+Baseline TWFE,SVK,2021
+Baseline TWFE,SVK,2023
+Baseline TWFE,SVK,2024
+Baseline TWFE,SVK,2025
+Baseline TWFE,SVN,2021
+Baseline TWFE,SVN,2023
+Baseline TWFE,SVN,2024
+Baseline TWFE,SVN,2025
+Baseline TWFE,SWE,2021
+Baseline TWFE,SWE,2023
+Baseline TWFE,SWE,2024
+Baseline TWFE,SWE,2025
+Z-gap,AUT,2021
+Z-gap,AUT,2023
+Z-gap,AUT,2024
+Z-gap,AUT,2025
+Z-gap,BEL,2021
+Z-gap,BEL,2023
+Z-gap,BEL,2024
+Z-gap,BEL,2025
+Z-gap,BGR,2021
+Z-gap,BGR,2023
+Z-gap,BGR,2024
+Z-gap,BGR,2025
+Z-gap,CYP,2021
+Z-gap,CYP,2023
+Z-gap,CYP,2024
+Z-gap,CYP,2025
+Z-gap,CZE,2021
+Z-gap,CZE,2023
+Z-gap,CZE,2024
+Z-gap,CZE,2025
+Z-gap,DEU,2021
+Z-gap,DEU,2023
+Z-gap,DEU,2024
+Z-gap,DEU,2025
+Z-gap,DNK,2021
+Z-gap,DNK,2023
+Z-gap,DNK,2024
+Z-gap,DNK,2025
+Z-gap,ESP,2021
+Z-gap,ESP,2023
+Z-gap,ESP,2024
+Z-gap,ESP,2025
+Z-gap,EST,2021
+Z-gap,EST,2023
+Z-gap,EST,2024
+Z-gap,EST,2025
+Z-gap,FIN,2021
+Z-gap,FIN,2023
+Z-gap,FIN,2024
+Z-gap,FIN,2025
+Z-gap,FRA,2021
+Z-gap,FRA,2023
+Z-gap,FRA,2024
+Z-gap,FRA,2025
+Z-gap,GRC,2021
+Z-gap,GRC,2023
+Z-gap,GRC,2024
+Z-gap,GRC,2025
+Z-gap,HRV,2021
+Z-gap,HRV,2023
+Z-gap,HRV,2024
+Z-gap,HRV,2025
+Z-gap,HUN,2021
+Z-gap,HUN,2023
+Z-gap,HUN,2024
+Z-gap,HUN,2025
+Z-gap,IRL,2021
+Z-gap,IRL,2023
+Z-gap,IRL,2024
+Z-gap,IRL,2025
+Z-gap,ITA,2021
+Z-gap,ITA,2023
+Z-gap,ITA,2024
+Z-gap,ITA,2025
+Z-gap,LTU,2021
+Z-gap,LTU,2023
+Z-gap,LTU,2024
+Z-gap,LTU,2025
+Z-gap,LUX,2021
+Z-gap,LUX,2023
+Z-gap,LUX,2024
+Z-gap,LUX,2025
+Z-gap,LVA,2021
+Z-gap,LVA,2023
+Z-gap,LVA,2024
+Z-gap,LVA,2025
+Z-gap,MLT,2021
+Z-gap,MLT,2023
+Z-gap,MLT,2024
+Z-gap,MLT,2025
+Z-gap,NLD,2021
+Z-gap,NLD,2023
+Z-gap,NLD,2024
+Z-gap,NLD,2025
+Z-gap,POL,2021
+Z-gap,POL,2023
+Z-gap,POL,2024
+Z-gap,POL,2025
+Z-gap,PRT,2021
+Z-gap,PRT,2023
+Z-gap,PRT,2024
+Z-gap,PRT,2025
+Z-gap,ROU,2021
+Z-gap,ROU,2023
+Z-gap,ROU,2024
+Z-gap,ROU,2025
+Z-gap,SVK,2021
+Z-gap,SVK,2023
+Z-gap,SVK,2024
+Z-gap,SVK,2025
+Z-gap,SVN,2021
+Z-gap,SVN,2023
+Z-gap,SVN,2024
+Z-gap,SVN,2025
+Z-gap,SWE,2021
+Z-gap,SWE,2023
+Z-gap,SWE,2024
+Z-gap,SWE,2025
+EW-gap,AUT,2021
+EW-gap,AUT,2023
+EW-gap,AUT,2024
+EW-gap,AUT,2025
+EW-gap,BEL,2021
+EW-gap,BEL,2023
+EW-gap,BEL,2024
+EW-gap,BEL,2025
+EW-gap,BGR,2021
+EW-gap,BGR,2023
+EW-gap,BGR,2024
+EW-gap,BGR,2025
+EW-gap,CYP,2021
+EW-gap,CYP,2023
+EW-gap,CYP,2024
+EW-gap,CYP,2025
+EW-gap,CZE,2021
+EW-gap,CZE,2023
+EW-gap,CZE,2024
+EW-gap,CZE,2025
+EW-gap,DEU,2021
+EW-gap,DEU,2023
+EW-gap,DEU,2024
+EW-gap,DEU,2025
+EW-gap,DNK,2021
+EW-gap,DNK,2023
+EW-gap,DNK,2024
+EW-gap,DNK,2025
+EW-gap,ESP,2021
+EW-gap,ESP,2023
+EW-gap,ESP,2024
+EW-gap,ESP,2025
+EW-gap,EST,2021
+EW-gap,EST,2023
+EW-gap,EST,2024
+EW-gap,EST,2025
+EW-gap,FIN,2021
+EW-gap,FIN,2023
+EW-gap,FIN,2024
+EW-gap,FIN,2025
+EW-gap,FRA,2021
+EW-gap,FRA,2023
+EW-gap,FRA,2024
+EW-gap,FRA,2025
+EW-gap,GRC,2021
+EW-gap,GRC,2023
+EW-gap,GRC,2024
+EW-gap,GRC,2025
+EW-gap,HRV,2021
+EW-gap,HRV,2023
+EW-gap,HRV,2024
+EW-gap,HRV,2025
+EW-gap,HUN,2021
+EW-gap,HUN,2023
+EW-gap,HUN,2024
+EW-gap,HUN,2025
+EW-gap,IRL,2021
+EW-gap,IRL,2023
+EW-gap,IRL,2024
+EW-gap,IRL,2025
+EW-gap,ITA,2021
+EW-gap,ITA,2023
+EW-gap,ITA,2024
+EW-gap,ITA,2025
+EW-gap,LTU,2021
+EW-gap,LTU,2023
+EW-gap,LTU,2024
+EW-gap,LTU,2025
+EW-gap,LUX,2021
+EW-gap,LUX,2023
+EW-gap,LUX,2024
+EW-gap,LUX,2025
+EW-gap,LVA,2021
+EW-gap,LVA,2023
+EW-gap,LVA,2024
+EW-gap,LVA,2025
+EW-gap,MLT,2021
+EW-gap,MLT,2023
+EW-gap,MLT,2024
+EW-gap,MLT,2025
+EW-gap,NLD,2021
+EW-gap,NLD,2023
+EW-gap,NLD,2024
+EW-gap,NLD,2025
+EW-gap,POL,2021
+EW-gap,POL,2023
+EW-gap,POL,2024
+EW-gap,POL,2025
+EW-gap,PRT,2021
+EW-gap,PRT,2023
+EW-gap,PRT,2024
+EW-gap,PRT,2025
+EW-gap,ROU,2021
+EW-gap,ROU,2023
+EW-gap,ROU,2024
+EW-gap,ROU,2025
+EW-gap,SVK,2021
+EW-gap,SVK,2023
+EW-gap,SVK,2024
+EW-gap,SVK,2025
+EW-gap,SVN,2021
+EW-gap,SVN,2023
+EW-gap,SVN,2024
+EW-gap,SVN,2025
+EW-gap,SWE,2021
+EW-gap,SWE,2023
+EW-gap,SWE,2024
+EW-gap,SWE,2025
+Cloud-augmented,AUT,2021
+Cloud-augmented,AUT,2023
+Cloud-augmented,AUT,2025
+Cloud-augmented,BEL,2021
+Cloud-augmented,BEL,2023
+Cloud-augmented,BEL,2025
+Cloud-augmented,BGR,2021
+Cloud-augmented,BGR,2023
+Cloud-augmented,BGR,2025
+Cloud-augmented,CYP,2021
+Cloud-augmented,CYP,2023
+Cloud-augmented,CYP,2025
+Cloud-augmented,CZE,2021
+Cloud-augmented,CZE,2023
+Cloud-augmented,CZE,2025
+Cloud-augmented,DEU,2021
+Cloud-augmented,DEU,2023
+Cloud-augmented,DEU,2025
+Cloud-augmented,DNK,2021
+Cloud-augmented,DNK,2023
+Cloud-augmented,DNK,2025
+Cloud-augmented,ESP,2021
+Cloud-augmented,ESP,2023
+Cloud-augmented,ESP,2024
+Cloud-augmented,ESP,2025
+Cloud-augmented,EST,2021
+Cloud-augmented,EST,2023
+Cloud-augmented,EST,2025
+Cloud-augmented,FIN,2021
+Cloud-augmented,FIN,2023
+Cloud-augmented,FIN,2025
+Cloud-augmented,FRA,2021
+Cloud-augmented,FRA,2023
+Cloud-augmented,FRA,2025
+Cloud-augmented,GRC,2021
+Cloud-augmented,GRC,2023
+Cloud-augmented,GRC,2025
+Cloud-augmented,HRV,2021
+Cloud-augmented,HRV,2023
+Cloud-augmented,HRV,2024
+Cloud-augmented,HRV,2025
+Cloud-augmented,HUN,2021
+Cloud-augmented,HUN,2023
+Cloud-augmented,HUN,2024
+Cloud-augmented,HUN,2025
+Cloud-augmented,IRL,2021
+Cloud-augmented,IRL,2023
+Cloud-augmented,IRL,2025
+Cloud-augmented,ITA,2021
+Cloud-augmented,ITA,2023
+Cloud-augmented,ITA,2025
+Cloud-augmented,LTU,2021
+Cloud-augmented,LTU,2023
+Cloud-augmented,LTU,2025
+Cloud-augmented,LUX,2021
+Cloud-augmented,LUX,2023
+Cloud-augmented,LUX,2025
+Cloud-augmented,LVA,2021
+Cloud-augmented,LVA,2023
+Cloud-augmented,LVA,2025
+Cloud-augmented,MLT,2021
+Cloud-augmented,MLT,2023
+Cloud-augmented,MLT,2025
+Cloud-augmented,NLD,2021
+Cloud-augmented,NLD,2023
+Cloud-augmented,NLD,2024
+Cloud-augmented,NLD,2025
+Cloud-augmented,POL,2021
+Cloud-augmented,POL,2023
+Cloud-augmented,POL,2025
+Cloud-augmented,PRT,2021
+Cloud-augmented,PRT,2023
+Cloud-augmented,PRT,2025
+Cloud-augmented,ROU,2021
+Cloud-augmented,ROU,2023
+Cloud-augmented,ROU,2025
+Cloud-augmented,SVK,2021
+Cloud-augmented,SVK,2023
+Cloud-augmented,SVK,2025
+Cloud-augmented,SVN,2021
+Cloud-augmented,SVN,2023
+Cloud-augmented,SVN,2025
+Cloud-augmented,SWE,2021
+Cloud-augmented,SWE,2023
+Cloud-augmented,SWE,2025

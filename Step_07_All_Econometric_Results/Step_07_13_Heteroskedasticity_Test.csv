@@ -1,0 +1,2 @@
+﻿test,null_hypothesis,statistic,p_value,decision_5pct
+Brown-Forsythe / Levene test,Residual variances are equal across countries,1.5476551874352793,0.07135101310574957,Do not reject homoskedasticity

@@ -1,2 +1,2 @@
 ﻿test,null_hypothesis,F_statistic,p_value,df_num,df_denom,decision_5pct
-PanelOLS F-test for poolability,Entity/time effects are jointly unnecessary,15.825449485948337,1.1102230246251565e-16,29,76,Reject poolability
+PanelOLS F-test for poolability,Entity/time effects are jointly unnecessary,16.230849829856,3.5439301944234874e-22,29,76,Reject poolability

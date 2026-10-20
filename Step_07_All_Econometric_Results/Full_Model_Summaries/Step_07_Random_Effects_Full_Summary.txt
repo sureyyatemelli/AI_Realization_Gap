@@ -1,17 +1,17 @@
                         RandomEffects Estimation Summary                        
 ================================================================================
-Dep. Variable:     ai_realization_gap   R-squared:                        0.0344
-Estimator:              RandomEffects   R-squared (Between):             -0.0540
-No. Observations:                 108   R-squared (Within):               0.0608
-Date:                Thu, Oct 01 2026   R-squared (Overall):             -0.0073
-Time:                        08:52:03   Log-likelihood                    54.028
+Dep. Variable:     ai_realization_gap   R-squared:                        0.0342
+Estimator:              RandomEffects   R-squared (Between):             -0.0519
+No. Observations:                 108   R-squared (Within):               0.0602
+Date:                Tue, Oct 20 2026   R-squared (Overall):             -0.0063
+Time:                        13:18:04   Log-likelihood                    53.925
 Cov. Estimator:             Clustered                                           
-                                        F-statistic:                      1.8685
-Entities:                          27   P-value                           0.1595
+                                        F-statistic:                      1.8616
+Entities:                          27   P-value                           0.1605
 Avg Obs:                       4.0000   Distribution:                   F(2,105)
 Min Obs:                       4.0000                                           
-Max Obs:                       4.0000   F-statistic (robust):             1.7166
-                                        P-value                           0.1847
+Max Obs:                       4.0000   F-statistic (robust):             1.7130
+                                        P-value                           0.1853
 Time periods:                       4   Distribution:                   F(2,105)
 Avg Obs:                       27.000                                           
 Min Obs:                       27.000                                           
@@ -21,7 +21,7 @@ Max Obs:                       27.000
 =================================================================================
                Parameter  Std. Err.     T-stat    P-value    Lower CI    Upper CI
 ---------------------------------------------------------------------------------
-const            -0.1243     1.3481    -0.0922     0.9267     -2.7974      2.5488
-vhcn_pct         -0.0031     0.0019    -1.6652     0.0988     -0.0069      0.0006
-ln_gdp_pc_pps     0.0569     0.1377     0.4133     0.6803     -0.2162      0.3300
+const            -0.1360     1.3327    -0.1020     0.9189     -2.7784      2.5065
+vhcn_pct         -0.0031     0.0019    -1.6657     0.0988     -0.0069      0.0006
+ln_gdp_pc_pps     0.0581     0.1363     0.4260     0.6710     -0.2122      0.3283
 =================================================================================
