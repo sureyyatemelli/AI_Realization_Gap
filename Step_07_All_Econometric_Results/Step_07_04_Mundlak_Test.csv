@@ -1,0 +1,2 @@
+﻿test,null_hypothesis,F_statistic,p_value,df_num,df_denom,decision_5pct
+Mundlak joint significance test,Country means of time-varying regressors are jointly zero,8.327815426317347,0.001603100400448638,2.0,26.0,Reject RE exogeneity assumption

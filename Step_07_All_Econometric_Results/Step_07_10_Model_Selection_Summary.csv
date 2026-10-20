@@ -1,0 +1,4 @@
+﻿test,statistic,p_value,conclusion
+Pooled OLS vs Country FE,5.647768833928346,1.173255951365251e-09,Country effects are required
+Mundlak FE vs RE,8.327815426317347,0.001603100400448638,Fixed effects preferred to random effects
+TWFE poolability,15.825449485948337,1.1102230246251565e-16,Pooled specification rejected

@@ -1,0 +1,7 @@
+﻿statistic,value
+Number of observations,108
+Number of countries (N),27
+Number of time periods (T),4
+Minimum observations per country,4
+Maximum observations per country,4
+Balanced panel,True

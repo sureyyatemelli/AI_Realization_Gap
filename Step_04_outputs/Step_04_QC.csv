@@ -1,0 +1,9 @@
+﻿check,passed
+Panel N = 108,True
+Countries = 27,True
+Years = 4,True
+Correct years,True
+No duplicate country-year,True
+VHCN missing = 0,True
+GDP missing = 0,True
+Log GDP missing = 0,True

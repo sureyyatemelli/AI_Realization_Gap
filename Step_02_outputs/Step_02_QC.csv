@@ -1,0 +1,10 @@
+﻿check,passed
+Panel contains 108 country-year rows,True
+EU27 contains 27 countries,True
+Four AI observation years,True
+Correct years,True
+No duplicate country-year,True
+AI adoption percentage >= 0,True
+AI adoption percentage <= 100,True
+AI adoption rate >= 0,True
+AI adoption rate <= 1,True

@@ -1,0 +1,26 @@
+{
+    "step": "Step 05 — Master Dataset and AI Realization Gap",
+    "panel": "EU27 country-year panel",
+    "years": [
+        2021,
+        2023,
+        2024,
+        2025
+    ],
+    "N_expected": 108,
+    "main_ai_potential": "PCA-weighted structural AI potential index",
+    "potential_scale": "0-1 pooled min-max normalization",
+    "adoption_measure": "Percentage of enterprises using AI technologies",
+    "adoption_normalization": "0-1 pooled min-max normalization",
+    "main_gap_formula": "ai_potential - ai_adoption_norm",
+    "robustness_gap_1": "ai_potential_pca_z - z_ai_adoption",
+    "robustness_gap_2": "ai_potential_equal - ai_adoption_norm",
+    "main_enablers": [
+        "VHCN coverage",
+        "log GDP per capita PPS"
+    ],
+    "cloud_status": "Auxiliary robustness variable due to incomplete coverage",
+    "interpolation": false,
+    "imputation": false,
+    "created": "2026-09-29T10:25:24.725998"
+}

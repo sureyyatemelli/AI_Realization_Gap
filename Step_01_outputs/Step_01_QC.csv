@@ -1,0 +1,10 @@
+﻿check,passed
+EU27 has exactly 27 countries,True
+All geo codes unique,True
+All ISO3 codes unique,True
+Core AI years correct,True
+Panel contains 108 observations,True
+No missing geo values,True
+No missing country values,True
+No missing ISO3 values,True
+No duplicated country-year,True

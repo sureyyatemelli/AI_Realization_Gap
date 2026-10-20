@@ -1,0 +1,10 @@
+﻿check,passed
+Panel N = 108,True
+Countries = 27,True
+Years = 4,True
+Correct years,True
+No duplicate country-year,True
+Core variables complete,True
+"AI potential in [0,1]",True
+"Normalized adoption in [0,1]",True
+Gap finite,True
